@@ -13,8 +13,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aquinolima&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquinolima&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️  Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center">
+<h2>Let's code!!!</h2>
+<img src="https://miro.medium.com/max/828/0*asGn9Td3i3o0zQKV" width="400px" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aquinolima&icon=2&color=6)](https://visitcount.itsvg.in)
