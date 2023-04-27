@@ -15,7 +15,7 @@
 
 <div align="center">
 <h2>Let's code!!!</h2>
-<img src="https://miro.medium.com/max/828/0*asGn9Td3i3o0zQKV" width="400px" />
+<img src="https://miro.medium.com/max/828/0*asGn9Td3i3o0zQKV](https://becode.com.br/wp-content/uploads/2017/05/Come%C3%A7ar-com-Java.gif)" width="400px" />
 </div>
 
 ---
